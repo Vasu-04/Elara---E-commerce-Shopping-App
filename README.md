@@ -36,10 +36,14 @@ Elara is a modern, feature-packed e-commerce shopping app built using Flutter. T
 [[![WhatsApp Image 2024-08-23 at 20 01 10_5d9f6009](https://github.com/user-attachments/assets/a927b8e9-2cf5-41fb-8665-534fdda64978)
 ]](https://drive.google.com/file/d/1tQT9bc5V3IutWcn36UXiPslraybhxn58/view)
 
-Click the image to watch the full demo on YouTube.
+Click the image to watch the full demo.
 
 ## Screenshots
+![WhatsApp Image 2024-09-13 at 01 05 47_af63e4a2](https://github.com/user-attachments/assets/3ad37c41-3d2e-4cad-8fee-d0d07129b8df)
+![WhatsApp Image 2024-09-13 at 01 05 46_0b993a03](https://github.com/user-attachments/assets/80657a60-3f83-40f5-bef2-17ec0fdd0e5d)
+![WhatsApp Image 2024-09-13 at 01 05 46_dee91fb6](https://github.com/user-attachments/assets/c2ceb31f-cac9-4203-bd4f-e6658bfdbdc8)
 
+![WhatsApp Image 2024-09-13 at 01 05 46_861451ac](https://github.com/user-attachments/assets/3004e13a-42f5-47d8-9629-a20e4b47f879)  ![WhatsApp Image 2024-09-13 at 01 05 45_54aea169](https://github.com/user-attachments/assets/40020ff7-974c-47be-847c-0e046b3d14e1)  ![WhatsApp Image 2024-09-13 at 01 05 45_dbedeeaa](https://github.com/user-attachments/assets/42dd1d58-3d9f-4525-ae76-d75a6f98709f)  ![WhatsApp Image 2024-09-13 at 01 05 45_42e94072](https://github.com/user-attachments/assets/77539276-d225-4074-a195-ecc930efe4a5)
 
 ## APK
 Download the latest APK from the [[Releases section]](https://drive.google.com/drive/folders/1YMLtFpm7srAXgnVVHTjAOz2xNAm48n71).
